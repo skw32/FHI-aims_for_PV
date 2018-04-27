@@ -3,4 +3,4 @@ A collection of tools for simulating photovoltaic materials with the FHI-aims el
 
 Please see wiki page.
 
-[[https://github.com/skw32/FHI-aims_for_PV/wiki]]
+https://github.com/skw32/FHI-aims_for_PV/wiki
